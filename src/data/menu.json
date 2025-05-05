@@ -1,0 +1,308 @@
+[
+  {
+    "id": 1,
+    "name": "Avocado Toast",
+    "price": 8.99,
+    "category": "Pastries",
+    "icon": "🥑",
+    "icon-name": "avocado",
+    "image": "avocado-toast.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pancakes",
+    "price": 7.49,
+    "category": "Pastries",
+    "icon": "🥞",
+    "icon-name": "pancake",
+    "image": "pancakes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Croissant",
+    "price": 3.99,
+    "category": "Pastries",
+    "icon": "🥐",
+    "icon-name": "croissant",
+    "image": "croissant.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Espresso",
+    "price": 3.49,
+    "category": "Drinks",
+    "icon": "☕",
+    "icon-name": "coffee",
+    "image": "espresso.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Orange Juice",
+    "price": 4.99,
+    "category": "Drinks",
+    "icon": "🍊",
+    "icon-name": "orange",
+    "image": "orange-juice.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Flat White",
+    "price": 4.49,
+    "category": "Drinks",
+    "icon": "☕",
+    "icon-name": "coffee",
+    "image": "flat-white.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Latte",
+    "price": 4.79,
+    "category": "Drinks",
+    "icon": "☕",
+    "icon-name": "coffee",
+    "image": "latte.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Water",
+    "price": 1.99,
+    "category": "Drinks",
+    "icon": "💧",
+    "icon-name": "water",
+    "image": "water.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Milk",
+    "price": 2.99,
+    "category": "Drinks",
+    "icon": "🥛",
+    "icon-name": "milk",
+    "image": "milk.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Soda",
+    "price": 2.49,
+    "category": "Drinks",
+    "icon": "🥤",
+    "icon-name": "soda",
+    "image": "soda.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Capuccino",
+    "price": 4.99,
+    "category": "Drinks",
+    "icon": "☕",
+    "icon-name": "coffee",
+    "image": "capuccino.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Matcha",
+    "price": 5.99,
+    "category": "Drinks",
+    "icon": "🍵",
+    "icon-name": "tea",
+    "image": "matcha.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Iced Coffee",
+    "price": 4.29,
+    "category": "Drinks",
+    "icon": "🧊",
+    "icon-name": "iced-coffee",
+    "image": "iced-coffee.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Baguette",
+    "price": 3.49,
+    "category": "Pastries",
+    "icon": "🥖",
+    "icon-name": "baguette",
+    "image": "baguette.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Cinnamon Roll",
+    "price": 4.29,
+    "category": "Pastries",
+    "icon": "🍩",
+    "icon-name": "cinnamon-roll",
+    "image": "cinnamon-roll.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Brioche",
+    "price": 3.99,
+    "category": "Pastries",
+    "icon": "🍞",
+    "icon-name": "brioche",
+    "image": "brioche.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Pain au Chocolat",
+    "price": 4.29,
+    "category": "Pastries",
+    "icon": "🍫",
+    "icon-name": "pain-au-chocolat",
+    "image": "pain-au-chocolat.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Focaccia",
+    "price": 5.49,
+    "category": "Pastries",
+    "icon": "🍞",
+    "icon-name": "focaccia",
+    "image": "focaccia.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Sourdough",
+    "price": 4.99,
+    "category": "Pastries",
+    "icon": "🍞",
+    "icon-name": "sourdough",
+    "image": "sourdough.jpg"
+  },
+  {
+    "id": 20,
+    "name": "Challah",
+    "price": 5.29,
+    "category": "Pastries",
+    "icon": "🍞",
+    "icon-name": "challah",
+    "image": "challah.jpg"
+  },
+  {
+    "id": 21,
+    "name": "Pita Bread",
+    "price": 3.79,
+    "category": "Pastries",
+    "icon": "🫓",
+    "icon-name": "pita",
+    "image": "pita.jpg"
+  },
+  {
+    "id": 22,
+    "name": "Eggs Benedict",
+    "price": 12.99,
+    "category": "Mains",
+    "icon": "🥚",
+    "icon-name": "egg",
+    "image": "eggs-benedict.jpg"
+  },
+  {
+    "id": 23,
+    "name": "Full English",
+    "price": 14.99,
+    "category": "Mains",
+    "icon": "🍳",
+    "icon-name": "frying-pan",
+    "image": "full-english.jpg"
+  },
+  {
+    "id": 24,
+    "name": "Granola Bowl",
+    "price": 8.99,
+    "category": "Mains",
+    "icon": "🥣",
+    "icon-name": "bowl",
+    "image": "granola-bowl.jpg"
+  },
+  {
+    "id": 25,
+    "name": "French Toast",
+    "price": 9.99,
+    "category": "Mains",
+    "icon": "🍞",
+    "icon-name": "bread",
+    "image": "french-toast.jpg"
+  },
+  {
+    "id": 26,
+    "name": "Omelette",
+    "price": 10.49,
+    "category": "Mains",
+    "icon": "🥚",
+    "icon-name": "egg",
+    "image": "omelette.jpg"
+  },
+  {
+    "id": 27,
+    "name": "Breakfast Burrito",
+    "price": 11.99,
+    "category": "Mains",
+    "icon": "🌯",
+    "icon-name": "burrito",
+    "image": "breakfast-burrito.jpg"
+  },
+  {
+    "id": 28,
+    "name": "Greek Yogurt",
+    "price": 6.99,
+    "category": "Mains",
+    "icon": "🥣",
+    "icon-name": "yogurt",
+    "image": "greek-yogurt.jpg"
+  },
+  {
+    "id": 29,
+    "name": "Fruit Salad",
+    "price": 7.49,
+    "category": "Sides",
+    "icon": "🍓",
+    "icon-name": "fruit",
+    "image": "fruit-salad.jpg"
+  },
+  {
+    "id": 30,
+    "name": "Hash Browns",
+    "price": 4.99,
+    "category": "Sides",
+    "icon": "🥔",
+    "icon-name": "potato",
+    "image": "hash-browns.jpg"
+  },
+  {
+    "id": 31,
+    "name": "Bacon",
+    "price": 3.99,
+    "category": "Sides",
+    "icon": "🥓",
+    "icon-name": "bacon",
+    "image": "bacon.jpg"
+  },
+  {
+    "id": 32,
+    "name": "Strawberry Smoothie",
+    "price": 6.49,
+    "category": "Drinks",
+    "icon": "🍓",
+    "icon-name": "strawberry",
+    "image": "strawberry-smoothie.jpg"
+  },
+  {
+    "id": 33,
+    "name": "Banana Smoothie",
+    "price": 6.49,
+    "category": "Drinks",
+    "icon": "🍌",
+    "icon-name": "banana",
+    "image": "banana-smoothie.jpg"
+  },
+  {
+    "id": 34,
+    "name": "Hot Chocolate",
+    "price": 4.99,
+    "category": "Drinks",
+    "icon": "☕",
+    "icon-name": "hot-drink",
+    "image": "hot-chocolate.jpg"
+  }
+]
